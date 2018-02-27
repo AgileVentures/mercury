@@ -3,6 +3,7 @@
 .rvmrc
 .powenv
 mercury.ids
+.idea
 
 # Local config files
 Gemfile.lock
